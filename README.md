@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Je suis Wilfried N'soukpoe, un développeur web freelance fullstack👨‍💻 </div>  
+### <div align="center">Je suis Wilfried N'SOUKPOE, un Développeur Web Freelance FullStack👨‍💻 </div>  
   
 
 - 🔭Je travaille actuellement à  [ESMC GIE](https://esmcgie.com)  
