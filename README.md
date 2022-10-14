@@ -9,7 +9,7 @@
 - 🔭Je travaille actuellement à  [ESMC GIE](https://esmcgie.com)  
   
 
-- 🌱 J'apprend présentement Rabbitmq  
+- 🌱 J'apprend présentement NestJs & Rabbitmq  
   
 
 - ❓ Demandez moi ce que vous voulez sur la stack MEAN  
