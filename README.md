@@ -6,7 +6,7 @@
 ### <div align="center">Je suis Wilfried N'SOUKPOE, un Développeur Web Freelance FullStack👨‍💻 </div>  
   
 
-- 🔭Je travaille actuellement à  [ESMC GIE](https://esmcgie.com) 
+- 🔭Je travaille actuellement à  [@ESMC GIE](https://esmcgie.com) 
 
 
 - 🔭 Mon portfolio Personnel  [@Portfolio](https://nswilfried.netlify.app)  
